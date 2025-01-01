@@ -23,7 +23,7 @@ admin=Admin()
 admin.__init__(app)
 
 
-
+ 
 
 #------create user table-----
 class User(db.Model):
