@@ -21,7 +21,7 @@ db = SQLAlchemy(app)
 app.secret_key = 'secret_key'
 admin=Admin()  
 admin.__init__(app)
-
+ 
 
  
 
